@@ -989,8 +989,7 @@ return arr1
 console.log(f([2,3,4,5,6,12,6]))
 */
 
-
-
+console.log(2+2)
 
 
 
